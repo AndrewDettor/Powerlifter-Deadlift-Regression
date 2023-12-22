@@ -23,4 +23,3 @@ Check out the [Project Report](https://github.com/AndrewDettor/Powerlifter-Deadl
 ![18](https://github.com/AndrewDettor/Powerlifter-Deadlift-Regression/blob/main/Presentation/powerlifter%20pres-18.jpg)
 ![19](https://github.com/AndrewDettor/Powerlifter-Deadlift-Regression/blob/main/Presentation/powerlifter%20pres-19.jpg)
 ![20](https://github.com/AndrewDettor/Powerlifter-Deadlift-Regression/blob/main/Presentation/powerlifter%20pres-20.jpg)
-![21](https://github.com/AndrewDettor/Powerlifter-Deadlift-Regression/blob/main/Presentation/powerlifter%20pres-21.jpg)
